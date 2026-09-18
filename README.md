@@ -51,10 +51,12 @@ The dataset contains 500 e-commerce orders with information related to:
 
 ## Dashboard Preview
 
-Main Dashboard
+# Main Dashboard
+
 ![Sephora E-Commerce Sales Dashboard](screenshots/sephora_dashboard.png)
 
-Key Insights
+# Key Insights
+
 ![Key Insights](screenshots/sephora_key-insights.png)
 
 ## Repository Contents
